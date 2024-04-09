@@ -5,6 +5,7 @@
 ## About
 
 The piscine is the last phase of the selection process for the programming course at Escola 42 Lisboa. It is an intensive bootcamp lasting 26 consecutive days where we do various projects, assessments and exams.
+
 Piscine start date: 09-01-2024.
 
 ## Projects
